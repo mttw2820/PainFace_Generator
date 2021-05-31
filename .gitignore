@@ -1,0 +1,6 @@
+## ignore image data
+data/
+
+## ignore checkpoint n result images
+checkpoints/
+results/
